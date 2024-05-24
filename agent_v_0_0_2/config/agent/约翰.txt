@@ -1,0 +1,8 @@
+[
+    {
+        "角色":"G:/毕业设计/pythonProject/agent_v1/agent_v_0_0_2/config/role/角色_约翰.txt",
+        "行动":"G:/毕业设计/pythonProject/agent_v1/agent_v_0_0_2/config/behavior/行动_约翰.txt",
+        "记忆":"G:/毕业设计/pythonProject/agent_v1/agent_v_0_0_2/config/memory/记忆_约翰.txt",
+        "合作方式":"G:/毕业设计/pythonProject/agent_v1/agent_v_0_0_2/config/cooperation/合作方式_约翰.txt"
+    }
+]
